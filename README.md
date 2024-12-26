@@ -1,0 +1,1 @@
+# Exemplo de autenticação JWT com Vue 2
